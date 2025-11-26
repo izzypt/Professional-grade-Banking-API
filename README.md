@@ -13,7 +13,7 @@ Let's create a secure, riche, scalable and feature-rich banking system that hand
 - Deposits, withdrawals, inter-account transfers
 
 
-Let's implement :
+<b>Let's implement</b> :
 
 - 2 factor authentication via OTP
 - rate limiting
@@ -25,7 +25,7 @@ Let's implement :
 - email notifications
 - SSL certificates
 
-Let's use the stack:
+<b>Let's use the stack</b>:
 
 - PostGresSQL
 - Redis
@@ -34,7 +34,8 @@ Let's use the stack:
 - Django
 - Django Rest Framework
 
-Tools and packages in detail:
+<b>Tools and packages in detail</b>:
+
 - Python3 w/ type hints
 - Django & Django Rest Framework
 - pipenv
