@@ -32,3 +32,7 @@ Let's use the stack:
 - RabbitMQ
 - Docker
 - Django
+- Django Rest Framework
+
+### Architecture
+
