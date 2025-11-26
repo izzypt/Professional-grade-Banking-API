@@ -34,5 +34,25 @@ Let's use the stack:
 - Django
 - Django Rest Framework
 
+Tools and packages in detail:
+- Python3 w/ type hints
+- Django & Django Rest Framework
+- pipenv
+- Docker & Docker COmposer
+- Celery
+- FLower
+- Redis
+- RabbitMQ
+- Mailpit
+- NGINX
+- Portainer
+- ReportLab
+- Cloudinary
+- Mailgun
+- Loguru
+- Shell Scripts
+- SSL Certificates with letsencrypt
+
+
 ### Architecture
 
